@@ -1,0 +1,3 @@
+22c140cc6147ebbb80ef06a20b4986bad4d41b8ca0fdada44bc0acdfc10edeae  feeder_0.15.6-public-bench.factory.hex
+0836c01e14c11492a117d564d4649138ec317b9026c3494f942c4fae4e5486b1  feeder_0.15.6-public-bench.app.bin
+59c076efa1db5828dca00cd11522daef2b7439b59a735541b57c47e27e70e485  feeder_0.15.6-public-bench.ota.bin

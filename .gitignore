@@ -1,0 +1,11 @@
+# 本产品的独立开发入口；机器配置和下载依赖不进入版本库。
+.deps/
+.tools/
+build/
+__pycache__/
+.vscode/settings.json
+.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+!.vscode/launch.template.json
+!.vscode/settings.template.json
