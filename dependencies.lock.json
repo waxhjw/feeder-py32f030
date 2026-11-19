@@ -1,0 +1,19 @@
+{
+  "sdk": {
+    "version": "1.5.0",
+    "file": "PY32F0xx_Firmware_V1.5.0.zip",
+    "url": "https://www.puyasemi.com/download_path/库函数与例程/MCU 微处理器/PY32F0xx_Firmware_V1.5.0.zip",
+    "sha256": "aae26b1470d09dbcf2d5992f594f73c9366639e49d842bab7f6db42856568d97"
+  },
+  "pack": {
+    "version": "1.2.8",
+    "file": "Puya.PY32F0xx_DFP.1.2.8.pack",
+    "url": "https://www.puyasemi.com/uploadfiles/Puya.PY32F0xx_DFP.1.2.8.pack",
+    "sha256": "bb434a82e1a07973b3dcd9045a21748fa390b14c36fc90b9d27b4d005b65b566",
+    "catalog": "https://www.keil.arm.com/packs/py32f0xx_dfp-puya/"
+  },
+  "device": "PY32F030F18P6TU",
+  "pyocd_target": "py32f030x8",
+  "flash_bytes": 65536,
+  "ram_bytes": 8192
+}
